@@ -1,0 +1,159 @@
+body {
+font-family: 'Courier New', Courier, monospace;
+background-color: rgb(255, 194, 138);
+margin: 0px;
+padding: 0px;
+}
+aside {
+  float: right;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+margin-right: 0px;
+margin-left:0px;
+}
+img{
+  border: 10px;
+  position: relative;
+  border-color: brown;
+  box-shadow: 10px 10px brown;
+  align-items: right;
+  border-radius: 45px;
+  width: 300px;
+  height: 300px;
+  margin-top: 0px;
+  margin-bottom: 30px;
+}
+p{
+  margin-left: 20px;
+  max-width: 1200px;
+}
+ul{
+    background-image: url(https://i.pinimg.com/564x/9e/3b/8f/9e3b8fce9528e9ecbe28746e3b786be9.jpg);
+    padding-left: 25px;
+    color: lightgray;
+    font-size:large;
+    font-weight: bold;
+    position: relative;
+    line-height: 25px;
+    border-radius: 30px;
+      padding: 5px; 
+      width: 200px;
+      height: 110px;
+      border: 5px solid brown;
+      margin-top: 0px;}
+a:link{
+  color: lightgrey;
+}
+      a:active{
+  color: brown;
+}
+a:visited{
+  color:lightgrey;
+}
+      h1{
+        color: rgb(53, 20, 13);
+        font-size: 50px;
+        text-align: Left;
+        text-shadow: 2px 2px rgb(255, 194, 138);
+        box-shadow: 0px 10px brown;
+        margin-top: 0px;
+        padding-top: 25px;
+        padding-left: 15px;
+        padding-bottom: 0px;
+        background-image: url(https://images.unsplash.com/photo-1507371341162-763b5e419408?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1039&q=80);
+        width: 100%;
+        height: 75px;
+      }
+      article{
+        display: flex;
+        align-items: center;
+        flex: auto;
+        flex-wrap: wrap;
+        flex-direction: row;
+        gap: 25px;
+        margin-left: 20px;
+        z-index: 0;
+      }
+      .pj1:hover, .pj2:hover, .pj3:hover, .pj4:hover, .pj5:hover{
+        cursor: pointer;
+        color:brown;
+        box-shadow: 10px 10px 10px coral;
+        background-color: brown;
+        z-index: 1;
+      }
+      
+      .pj1{
+        background-image: url(https://i.pinimg.com/564x/ea/dd/75/eadd754ba33acfb721012020e38b99a3.jpg);
+        font-size: 45px;
+        font-weight: bold;
+        color: lightgrey;
+        text-align: left;
+        padding-top: 250px;
+        height: 450px;
+        width: 700px;
+        border: 10px;
+        border-color: black;
+        border-radius: 45px;
+      }
+      .pj2{
+        background-image: url(https://i.pinimg.com/564x/ad/a8/63/ada86351b0108e68157058638f5fa4fa.jpg);
+        font-size: 45px;
+        font-weight: bold;
+        color: lightgrey;
+        text-align: left;
+        padding-top: 175px;
+        height: 325px;
+        width: 500px;
+        border: 10px;
+        border-color: black;
+        border-radius: 45px;
+      }
+      .pj3{
+        background-image: url(https://i.pinimg.com/564x/f3/7e/c0/f37ec0a29030aab623ff1f64277a16dc.jpg);
+        font-size: 45px;
+        font-weight: bold;
+        color: lightgrey;
+        text-align: left;
+        padding-top: 175px;
+        height: 325px;
+        width: 500px;
+        border: 10px;
+        border-color: black;
+        border-radius: 45px;
+      }
+      .pj4{
+        background-image: url(https://i.pinimg.com/564x/d6/83/05/d68305bb6c9a4c8a51cdc3d9fcae57a3.jpg);
+        font-size: 45px;
+        font-weight: bold;
+        color: lightgrey;
+        text-align: left;
+        padding-top: 175px;
+        height: 325px;
+        width: 500px;
+        border: 10px;
+        border-color: black;
+        border-radius: 45px;
+      }
+      .pj5{
+        background-image: url(https://i.pinimg.com/564x/b5/fb/23/b5fb2393089f6937a010a3b8cd29135a.jpg);
+        font-size: 45px;
+        font-weight: bold;
+        color: lightgrey;
+        text-align: left;
+        padding-top: 175px;
+        height: 325px;
+        width: 500px;
+        border: 10px;
+        border-color: black;
+        border-radius: 45px;
+      }
+      footer{
+        margin-top: 20px;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        padding-left: 20px;
+        background-color: brown;
+        font-weight: bold;
+      
+      }

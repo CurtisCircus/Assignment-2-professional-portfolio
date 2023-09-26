@@ -97,7 +97,7 @@ a:visited{
         border-radius: 45px;
       }
       .pj2{
-        background-image: url(https://i.pinimg.com/564x/ad/a8/63/ada86351b0108e68157058638f5fa4fa.jpg);
+        background-image: url('.../../images/project2.png');
         font-size: 45px;
         font-weight: bold;
         color: lightgrey;

@@ -97,7 +97,7 @@ a:visited{
         border-radius: 45px;
       }
       .pj2{
-        background-image: url('.../../images/project2.png');
+        background-image: url('.../../images/project-1.png');
         font-size: 45px;
         font-weight: bold;
         color: lightgrey;
@@ -110,7 +110,7 @@ a:visited{
         border-radius: 45px;
       }
       .pj3{
-        background-image: url(https://i.pinimg.com/564x/f3/7e/c0/f37ec0a29030aab623ff1f64277a16dc.jpg);
+        background-image: url('../assests/images/project-2.png');
         font-size: 45px;
         font-weight: bold;
         color: lightgrey;
